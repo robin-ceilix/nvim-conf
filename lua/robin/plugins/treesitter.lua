@@ -17,6 +17,9 @@ return {
       },
       indent = { enable = true },
       ensure_installed = {
+        "go",
+        "gomod",
+        "gosum",
         "json",
         "javascript",
         "typescript",
